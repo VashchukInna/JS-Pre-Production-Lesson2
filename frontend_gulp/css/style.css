@@ -1,0 +1,17 @@
+table {
+    display: inline-block;
+    background: #a64dff;
+    padding: 8px 10px 8px 10px;
+    width: 100%;
+    text-align: left;
+    padding-left: 80px;
+}
+
+table td a {
+    padding: 8px 10px 8px 10px;
+    background: #a64dff;
+    color: white;
+    text-decoration: none;
+    font-family: Impact;
+    margin-right: 5px;
+}
