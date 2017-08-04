@@ -40,7 +40,7 @@ function getUserByName(name) {
             return users[i];
         }
     }
-    return "NO USER";
+    return null;
 }
 
 module.exports = {
